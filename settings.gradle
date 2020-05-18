@@ -1,0 +1,6 @@
+enableFeaturePreview('GRADLE_METADATA')
+
+rootProject.name = 'UnsupportedOperationExceptionMinRepo'
+
+include ":module_a"
+include ":module_b"
